@@ -14,7 +14,9 @@ Convolutional neural networks (CNNs) for automatic classification and diagnosis 
 # MLAF-CapsNet
 
 
+# Train the model
 
+python train.py
 
 # Original Code
 The code used for this study is a modification of the code at https://github.com/XifengGuo/CapsNet-Keras.
