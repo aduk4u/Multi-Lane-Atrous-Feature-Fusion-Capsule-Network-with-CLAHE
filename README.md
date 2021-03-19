@@ -8,6 +8,8 @@ Convolutional neural networks (CNNs) for automatic classification and diagnosis 
 
 # Baseline Capsule Network
 
+![Uploading capp.jpg…]()
+
 
 # MLAF-CapsNet
 
