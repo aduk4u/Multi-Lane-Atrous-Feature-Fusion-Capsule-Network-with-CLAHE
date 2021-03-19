@@ -4,5 +4,4 @@ Multi-Lane Atrous Feature Fusion Capsule Network with Contrast Limited Adaptive 
 
 
 # Original Code
-The code used for this study is a modification of the code at https://github.com/Xif
-engGuo/CapsNet-Keras.
+The code used for this study is a modification of the code at https://github.com/XifengGuo/CapsNet-Keras.
