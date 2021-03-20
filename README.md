@@ -18,7 +18,7 @@ Convolutional neural networks (CNNs) for automatic classification and diagnosis 
 
 #### Train the model
 
-python train.py
+python train.py or run jupyter notebook with command %run train.py
 
 #### Original Code
 The code used for this study is a modification of the code at https://github.com/XifengGuo/CapsNet-Keras.
