@@ -1,9 +1,9 @@
 #### Hyperparameters ####
 
 
-EPOCHS = 100
+EPOCHS = 300
 
-BATCH_SIZE = 90
+BATCH_SIZE = 16
 LearningRate = 0.0001
 #LR_decay = 0.90
 LR_decay = 0.002
