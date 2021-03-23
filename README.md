@@ -21,5 +21,8 @@ Convolutional neural networks (CNNs) for automatic classification and diagnosis 
 
 python train.py or run in jupyter notebook with th command %run train.py
 
+#### Train and visualize
+Use the jupyter code to train and visualize the MLAF-CapsNet model
+
 #### Original Code
 The code used for this study is a modification of the code at https://github.com/XifengGuo/CapsNet-Keras.
