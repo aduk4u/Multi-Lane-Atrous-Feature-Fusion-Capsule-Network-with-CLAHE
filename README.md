@@ -18,6 +18,8 @@ Convolutional neural networks (CNNs) for automatic classification and diagnosis 
 ## MLAF-CapsNet
 ![mlaf](https://user-images.githubusercontent.com/33870014/111817353-e2124280-8918-11eb-88e4-ffaa056cf6f3.png)
 
+## Image folder
+The image folder contains MLAF-CapsNet model, train and validation accuracy curves, train and validation loss curves, ROC curve, and Consfusion matrix train weith 100 epochs
 
 #### Train the model
 
